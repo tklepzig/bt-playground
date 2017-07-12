@@ -1,3 +1,4 @@
+#needs sudo!
 #$1 --> address (bluetooth mac) of bluetooth device
 #$2 --> channel to connect to
 
