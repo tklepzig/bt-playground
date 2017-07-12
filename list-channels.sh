@@ -1,0 +1,1 @@
+sdptool browse $1 | egrep "Service Name:|Channel:"
